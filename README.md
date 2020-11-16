@@ -26,4 +26,4 @@ This app works by searching the weather of any city around the world, it provide
 This project was alot of fun and is the first PWA I have created, I implemented several different features that I hadnt done before like changing images regarding the temperature and providing real time weather type updates. I had issues regarding the CSS and making my images load, I overcame this which helped me upgrade my knowledge of CSS by educating myself on different solutions. 
 
 # URL
-
+https://pwa-weatherapplication.netlify.app/
