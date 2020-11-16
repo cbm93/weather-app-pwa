@@ -11,10 +11,10 @@ This project was my first Progressive Web App and was created with ReactJS & CSS
 
 # Features
 
-• When temperture is over 15 degrees, it shows a "warm" image and if below 15 degrees it shows a "cold" image
-• Pulls weather data from an API
-• Provides weather type ie clouds, rain etc
-• Provides current date
+* When temperture is over 15 degrees, it shows a "warm" image and if below 15 degrees it shows a "cold" image
+* Pulls weather data from an API
+* Provides weather type ie clouds, rain etc
+* Provides current date
 
 
 # How does it work?
